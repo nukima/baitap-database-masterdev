@@ -1,0 +1,201 @@
+sub_id,sub_name
+1,Algebra
+2,General Physics
+3,Introduction to Intormation Technology
+4,Signals and systems
+5,Data structures and algorithms
+6,Discrete Mathematics
+7,Database
+8,Computer Network
+9,Database Management Systems
+10,Data Mining
+11,Web development
+12,Marxist-Leninist Philosophy 
+13,Marxist-Leninist Political Economy
+14,Scientific Socialism
+15,History of Vietnam Communist Party 
+16,Ho Chi Minh's Ideology 
+17,Physical Education
+18,National Defence Education 
+19,Calculus
+20,Probability and Statistics
+21,Introduction to AI
+22,Modeling and Optimization for Machine Learning
+23,Foundations of Computer Systems
+24,Programming for Data Engineering with Python
+25,Object-oriented Programming
+26,Software Engineering
+27,Foundations of Artificial Intelligence
+28,Machine Learning
+29,Deep learning
+30,Natural language processing 
+31,Visual processing and analytics
+32,Data mining and analytics 
+33,AI system development practice
+34,Big Data Techniques and Technologies
+35,Scientific Seminars
+36,Cognition language and thought
+37,Probabilistic Graphical Models
+38,Reinforcement Learning and Planning
+39,Programming with GPU
+40,AI applications in natural language
+41,Speech processing 
+42,Human-AI Interaction
+43,AI applications in medicine
+44,Computational Neuroscience and Applications
+45,Bioinformatics
+46,AI Robotics
+47,AI applications in Engineering
+48,AI applications in Environment
+49,Knowledge-based Systems
+50,Hardware Design for Deep Learning
+51,Electronics Devices
+52,Analog Electronics
+53,Digital Electronics
+54,Electromagnetics Engineering
+55,Digital Signal Processing
+56,Analog Electronic Engineering Practice
+57,Digital Electronic Engineering Practice
+58,Communications
+59,Control Engineering
+60,Optical Communication
+61,Introduction to Signal Processing for Multimedia Systems
+62,Introduction to High Frequency Circuits and Systems
+63,Digital Communications and Coding Theory
+64,Mobile Communication Systems
+65,Embedded Computing System Design
+66,Digital Control Systems
+67,Signal Processing and Bio -medical Imaging
+68,Bioelectromagnetism
+69,Wireless Communications
+70,Programming for Mobile Devices
+71,Programming for Mobile Devices
+72,Antenna Techniques
+73,Satellite Communication
+74,HF Techniques
+75,Real -time Embedded Systems
+76,Signal Processing Methods
+77,Communication Network Administrator
+78,Modern Physics
+79,Optimization
+80,Introduction to Management Science
+81,State and Law
+82,Micro Economics
+83,Macro Economics
+84,Principles Of Marketing
+85,System Design Project
+86,Electronics and Communication Practice
+87,Mathematics for Economics
+88,Monetary and Financial Theories 1
+89,Accounting Principles
+90,Social Security
+91,Insurance Principles
+92,English for Insurance
+93,Business Insurance 1
+94,Business Insurance 2
+95,Social Insurance 1
+96,Social Insurance 2
+97,Insurance Business Administration 1
+98,Insurance Business Administration 2
+99,Insurance Statistics
+100,Business Communication and Negotiation
+101,Business Insurance Electives
+102,Risk Management in Insurance Electives
+103,Financial Analysis
+104,Corprorate Finance
+105,Investement in Insurance
+106,Managing Social Insurance cards and books Electives
+107,Corporate Culture
+108,Reinsurance
+109,Insurance Adjusting
+110,Accounting for Insurance Enterprise
+111,Laws in Insurance Business
+112,Insurance Business Analysis
+113,Adjusting Insurance Electives
+114,Social security Law
+115,Labour Protection
+116,Social Insurance Accounting
+117,Social Insurance Electives
+118,Social Insurance Management Electives
+119,Unemploment Insurance Electives
+120,Public Relation Research
+121,Advertising Management
+122,Agency Management
+123,Creative Strategy in Communication
+124,Brand Management
+125,Media for Public Relations
+126,Public Relations Internship Project
+127,Sales Promotion
+128,Price Management
+129,Trade Mark Valuation
+130,Public Marketing
+131,Service Marketing
+132,Digital Marketing
+133,Organizational Behavior
+134,Human Resource Management
+135,Event Planning
+136,Crisis Management
+137,Legal and Ethics Foundation of Communications
+138,Modern Journalism
+139,Sponsorship Management
+140,Brand Identity
+141,Principles of Aesthetic
+142,Public Speaking
+143,Principles of Psychology 1
+144,Investment Project Appraisal
+145,Investment Project Accounting
+146,Accounting for Banking
+147,Strategic Management
+148,Financial Management
+149,Public Finance
+150,Public Finance
+151,Commercial Bank
+152,Stock Market
+153,International Economic Integration
+154,Accounting Principles
+155,Global Supply Chain Management
+156,Principles of Logistics Management
+157,Commercial Business
+158,Logistics Business
+159,Trade in Enterprises
+160,Management Information Systems in Logistics
+161,International Trade Management
+162,Transportation and Freight Forwarding in Foreign Trade
+163,Business Communication and Negotiation
+164,International Business
+165,Electronic Commerce
+166,Customs Practice
+167,Major Research Paper
+168,Warehouse Management
+169,Digital Marketing
+170,Economics and Technical Norms for Enterprises
+171,Operations Management in Logistics
+172,Laws on International Maritime
+173,Research Methods for Socio - Economic
+174,Logistics in Enterprise
+175,Multi-modal Transport Management
+176,LSP Management
+177,E - Logistics
+178,Logistics Infrastructure
+179,International Busines Services
+180,Import-Export Practice
+181,Payment and Credit in International Trade
+182,Product Management
+183,Managerial Accounting
+184,Trade Economics 1
+185,Logistics Business
+186,Merchandise Packaging and Branding
+187,Internaional Trade Management 1
+188,Business Communication and Negotiation
+189,Electronic Commerce
+190,Customs Practice
+191,International Business
+192,Major Research Paper
+193,Job analysis and Performance Management
+194,Compensation Management
+195,Strategic Management
+196,Labor Economics
+197,Population and Development
+198,Labour Psychology
+199,Human Resource Acquiring
+200,Industrial Relation/Labour Relation
